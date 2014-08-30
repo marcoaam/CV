@@ -1,4 +1,110 @@
-CV
-==
+Marco Araujo
+=========
 
-My current resume.
+Makers Academy graduate seeking employment as Junior Backend Developer in a company where I can grow my skills and provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
+
+
+Recent code
+-------------
+
+| [Final project] | [Instagram] | [Takeaway] |
+|:--------------- |:-------- |:--------- |
+| Test-driven Ruby on Rails app developed in two weeks.| Ruby on Rails Instagram clone. | Basic Ruby takeaway restaurant app that lets you take orders. |
+
+
+### Skills
+
+  - Ruby
+  - Object­ oriented programming
+  - Agile methodologies
+  - Sinatra 
+  - Ruby on Rails
+  - Ruby-Gems as Devise, Bcrypt, Paperclip
+  - ORM's ActiveRecord and Datamapper
+  - PostgreSQL
+  - Testing tools as Cucumber, Rspec, Jasmine and Capybara
+  - Version control with Git
+  - Heroku
+  - JavaScript, jQuery, AJAX, Websockets
+  - HTML5, CSS3, Bootstrap
+  - APIs including Twilio, Stripe, Mailgun,  Gmaps.
+
+
+Education
+----------
+
+
+### [Makers Academy], London, Uk
+**Programming Bootcamp: June&mdash;September 2014**
+
+  - Highly selective 12 week full-time course.
+  - Focussed on Test Driven Development and Agile practices.
+  - Teaching Web development with Ruby, Ruby on Rails.
+  - Final project: [Blank] - Test-driven Ruby on Rails app developed in two weeks.
+
+### Turabo University, Puerto Rico
+**A.S Computer Technology and Networks (Summa Cum Laude 3.95/4.0 gpa) 2012&mdash; 2014**
+ - Studied Computer repair and maintenance.
+ - Windows troubleshooting.
+ - Network theory and implementation.
+ - Computer programming using VBA and C++.
+
+ ### Dr. Graphic, Venezuela
+**Web Master diploma (Adobe authorised training centre) 2009&mdash; 2010**
+ - Website design
+ - Photo restoration and image editing
+ - PSD to HTML
+ - Use of the Adobe suite including photoshop, illustrator, dreamweaver, flash and after effects
+ - Use of tools as Filezilla, MySql, MAMP.
+
+
+Experience
+----------
+
+###Business owner and manager (Araulendez, C.A Retail store), Valencia, Venezuela
+**2011&mdash;2012**
+
+  - Business Management.
+  - Customer service.
+  - Sales.
+  - Communication with merchandise providers.
+  - Promoting the business.
+
+###Freelance
+
+- Image editing
+- Photo restoration
+- Website design
+- Print design
+
+
+Interests
+---------
+
+- Technology
+- Clean Code
+- Create new things
+- TDD
+- Movies
+- Surf & Golf.
+
+
+Contact me
+----------
+
+- Phone: +44 7785 181 622
+- [marcopersonal@outlook.com]
+- [Twitter]
+- [LinkedIn]
+- [Github]
+
+  [Instagram]:https://github.com/marcoaam/instagram
+  [Takeaway]:https://github.com/marcoaam/Takeaway-App
+  [Final project]:https://github.com/marcoaam/blank
+
+  [Makers Academy]:http://www.makersacademy.com
+  
+  [marcopersonal@outlook.com]: mailto:marcopersonal@outlook.com
+  [GitHub]:https://github.com/marcoaam
+  [LinkedIn]:http://uk.linkedin.com/in/marcoaam/
+  [Twitter]:http://twitter.com/marco_web
