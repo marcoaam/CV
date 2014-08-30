@@ -1,7 +1,7 @@
 Marco Araujo
 =========
 
-Makers Academy graduate seeking employment as Junior Backend Developer in a company where I can grow my skills and provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
+Makers Academy graduate seeking employment in London, Uk as Junior Backend Developer in a company where I can grow my skills and provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
 
 
 Code examples
@@ -34,7 +34,7 @@ Education
 ----------
 
 ### [Makers Academy] - London, Uk
-**Programming Bootcamp: June&mdash;September 2014**
+**Web Development Bootcamp: June&mdash;September 2014**
 
 - Highly selective 12 week full-time course.
 - Focussed on Test Driven Development and Agile practices.
@@ -46,8 +46,8 @@ Education
 
 - Studied Computer repair and maintenance.
 - Windows troubleshooting.
-- Network theory and implementation.
-- Computer programming using VBA and C++.
+- Networks theory and implementation.
+- Programming using VBA and C++.
 
 ### Dr. Graphic - Venezuela
 **Web Master diploma (Adobe authorised training centre) 2009&mdash;2010**
@@ -59,10 +59,11 @@ Education
 - Use of tools as Filezilla, MySql, MAMP.
 
 
+
 Experience
 ----------
 
-###Araulendez, C.A - Business owner and manager - Valencia, Venezuela
+###Araulendez, C.A - Business owner - Valencia, Venezuela
 **2011&mdash;2012**
 - Business Management.
 - Customer service.
@@ -78,6 +79,7 @@ Experience
 - Print design.
 
 
+
 Interests
 ---------
 
@@ -87,6 +89,7 @@ Interests
 - TDD.
 - Movies.
 - Surf & Golf.
+
 
 
 Contact me
