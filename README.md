@@ -36,57 +36,56 @@ Education
 
 ### [Makers Academy], London, Uk
 **Programming Bootcamp: June&mdash;September 2014**
-
   - Highly selective 12 week full-time course.
   - Focussed on Test Driven Development and Agile practices.
   - Teaching Web development with Ruby, Ruby on Rails.
-  - Final project: [Blank] - Test-driven Ruby on Rails app developed in two weeks.
+	- Final project: [Blank] - Test-driven Ruby on Rails app developed in two weeks.
 
 ### Turabo University, Puerto Rico
-**A.S Computer Technology and Networks (Summa Cum Laude 3.95/4.0 gpa) 2012&mdash; 2014**
- - Studied Computer repair and maintenance.
- - Windows troubleshooting.
- - Network theory and implementation.
- - Computer programming using VBA and C++.
+**A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
+	- Studied Computer repair and maintenance
+	- Windows troubleshooting
+	- Network theory and implementation
+	- Computer programming using VBA and C++.
 
- ### Dr. Graphic, Venezuela
-**Web Master diploma (Adobe authorised training centre) 2009&mdash; 2010**
- - Website design
- - Photo restoration and image editing
- - PSD to HTML
- - Use of the Adobe suite including photoshop, illustrator, dreamweaver, flash and after effects
- - Use of tools as Filezilla, MySql, MAMP.
+### Dr. Graphic, Venezuela
+**Web Master diploma (Adobe authorised training centre) 2009&mdash;2010**
+	- Website design
+	- Photo restoration and image editing
+	- PSD to HTML
+	- Use of the Adobe suite including photoshop, illustrator, dreamweaver, flash and after effects
+	- Use of tools as Filezilla, MySql, MAMP.
 
 
 Experience
 ----------
 
-###Business owner and manager (Araulendez, C.A Retail store), Valencia, Venezuela
+###Araulendez, C.A - Business owner and manager - Valencia, Venezuela
 **2011&mdash;2012**
 
-  - Business Management.
-  - Customer service.
-  - Sales.
-  - Communication with merchandise providers.
-  - Promoting the business.
+  - Business Management
+  - Customer service
+  - Sales
+  - Purchase planning and control
+  - Marketing.
 
 ###Freelance
 
-- Image editing
-- Photo restoration
-- Website design
-- Print design
+	- Image editing
+	- Photo restoration
+	- Website design
+	- Print design
 
 
 Interests
 ---------
 
-- Technology
-- Clean Code
-- Create new things
-- TDD
-- Movies
-- Surf & Golf.
+	- Technology
+	- Clean Code
+	- Create new things
+	- TDD
+	- Movies
+	- Surf & Golf.
 
 
 Contact me
