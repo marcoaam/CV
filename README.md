@@ -33,7 +33,7 @@ Code examples
 Education
 ----------
 
-### [Makers Academy], London, Uk
+### [Makers Academy] - London, Uk
 **Programming Bootcamp: June&mdash;September 2014**
 
 - Highly selective 12 week full-time course.
@@ -41,7 +41,7 @@ Education
 - Teaching Web development with Ruby, Ruby on Rails.
 - Final project: [Blank] - Test-driven Ruby on Rails app developed in two weeks.
 
-### Turabo University, Puerto Rico
+### Turabo University - Puerto Rico
 **A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
 
 - Studied Computer repair and maintenance.
@@ -49,7 +49,7 @@ Education
 - Network theory and implementation.
 - Computer programming using VBA and C++.
 
-### Dr. Graphic, Venezuela
+### Dr. Graphic - Venezuela
 **Web Master diploma (Adobe authorised training centre) 2009&mdash;2010**
 
 - Website design.
@@ -64,11 +64,11 @@ Experience
 
 ###Araulendez, C.A - Business owner and manager - Valencia, Venezuela
 **2011&mdash;2012**
-	- Business Management.
-	- Customer service.
-	- Sales.
-	- Purchase planning and control.
-	- Marketing.
+- Business Management.
+- Customer service.
+- Sales.
+- Purchase planning and control.
+- Marketing.
 
 ###Freelance
 
