@@ -1,7 +1,7 @@
 Marco Araujo
 =========
 
-Makers Academy graduate seeking employment in London, Uk as Junior Backend Developer in a company where I can grow my skills and provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
+Makers Academy graduate seeking employment in London, UK as Junior Backend Developer in a company where I can grow my skills and provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
 
 
 Code examples
@@ -33,7 +33,7 @@ Code examples
 Education
 ----------
 
-### [Makers Academy] - London, Uk
+### [Makers Academy] - London, UK
 **Web Development Bootcamp: June&mdash;September 2014**
 
 - Highly selective 12 week full-time course.
@@ -103,7 +103,7 @@ Contact me
 
   [Instagram]:https://github.com/marcoaam/instagram
   [Takeaway]:https://github.com/marcoaam/Takeaway-App
-  [Final project]:https://github.com/marcoaam/blank
+  [Final project]:https://github.com/marcoaam/final-project
 
   [Makers Academy]:http://www.makersacademy.com
   
