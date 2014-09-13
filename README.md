@@ -8,7 +8,7 @@ Code examples
 -------------
 
 | [Flatter] | [Instagram] | [Takeaway] |
-|:--------------- |:-------- |:--------- |
+|:--------- |:----------- |:---------- |
 | Test-driven Ruby on Rails app developed in two weeks based on writing reviews for properties, landlord and tenants to be able to know with who are you going to deal or live with.| Ruby on Rails Instagram clone. | Basic Ruby takeaway restaurant app that lets you take orders. |
 
 
