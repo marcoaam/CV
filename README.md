@@ -39,7 +39,7 @@ Education
 - Highly selective 12 week full-time course.
 - Focussed on Test Driven Development and Agile practices.
 - Teaching Web development with Ruby, Ruby on Rails.
-- Final project: [Blank] - Test-driven Ruby on Rails app developed in two weeks.
+- Final project: [Flatter] - Test-driven Ruby on Rails app developed in two weeks.
 
 ### Turabo University - Puerto Rico
 **A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
