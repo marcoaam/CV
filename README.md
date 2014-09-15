@@ -1,7 +1,9 @@
 Marco Araujo
 =========
 
-Makers Academy graduate seeking employment in London, UK as Junior Backend Developer in a company where I can keep learning and growing my skills to provide a excellent performance. I´m a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
+Makers Academy graduate seeking employment in London, UK as Junior Developer in a company where I can keep learning and growing my skills to provide a excellent performance. 
+
+I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
 
 
 Code examples
@@ -9,7 +11,7 @@ Code examples
 
 | [Flatter] | [Instagram] | [Takeaway] |
 |:--------- |:----------- |:---------- |
-| Test-driven Ruby on Rails app developed in two weeks based on writing reviews for properties, landlord and tenants to be able to know with who are you going to deal or live with.| Ruby on Rails Instagram clone. | Basic Ruby takeaway restaurant app that lets you take orders. |
+| Test-driven Ruby on Rails app developed in 10 days based on writing reviews for properties, landlord and tenants.| Ruby on Rails Instagram clone that takes payments. | Basic Ruby takeaway restaurant app that lets you take orders. |
 
 
 ### Skills
