@@ -11,7 +11,7 @@ Code examples
 
 | [Flatter] | [Instagram] | [Takeaway] |
 |:--------- |:----------- |:---------- |
-| Test-driven Ruby on Rails app developed in 10 days based on writing reviews for properties, landlord and tenants.| Ruby on Rails Instagram clone that takes payments. | Basic Ruby takeaway restaurant app that lets you take orders. |
+| Test-driven Ruby on Rails app developed in 10 days based on writing reviews for properties, landlords and tenants.| Ruby on Rails Instagram clone that takes payments. | Basic Ruby Object Oriented model of a takeaway restaurant app that lets you take orders. |
 
 
 ### Skills
@@ -46,7 +46,7 @@ Education
 ### Turabo University - Puerto Rico
 **A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
 
-- Studied Computer repair and maintenance.
+- Computer repair and maintenance.
 - Windows troubleshooting.
 - Networks theory and implementation.
 - Programming using VBA and C++.
