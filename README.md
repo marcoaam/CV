@@ -1,8 +1,6 @@
 Marco Araujo
 =========
 
-Makers Academy graduate seeking employment in London, UK as Junior Developer in a company where I can keep learning and growing my skills to provide a excellent performance. 
-
 I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
 
 
@@ -17,14 +15,16 @@ Code examples
 ### Skills
 
   - Ruby
+  - C#
   - Object­ oriented programming
   - Agile methodologies
-  - Sinatra 
+  - Sinatra
   - Ruby on Rails
+  - ASP.NET MVC
   - Ruby-Gems as Devise, Bcrypt, Paperclip
   - ORM's ActiveRecord and Datamapper
   - PostgreSQL
-  - Testing tools as Cucumber, Rspec, Jasmine and Capybara
+  - Testing tools as Cucumber, Rspec, NUnit, Jasmine and Capybara
   - Version control with Git
   - Heroku
   - JavaScript, jQuery, AJAX, Websockets
