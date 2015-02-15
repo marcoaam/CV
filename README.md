@@ -14,21 +14,21 @@ Code examples
 
 ### Skills
 
-  - Ruby
-  - C#
-  - Object­ oriented programming
-  - Agile methodologies
-  - Sinatra
-  - Ruby on Rails
-  - ASP.NET MVC
-  - Ruby-Gems as Devise, Bcrypt, Paperclip
-  - ORM's ActiveRecord and Datamapper
-  - PostgreSQL
-  - Testing tools as Cucumber, Rspec, NUnit, Jasmine and Capybara
-  - Version control with Git
-  - Heroku
-  - JavaScript, jQuery, AJAX, Websockets
-  - HTML5, CSS3, Bootstrap
+  - Ruby.
+  - C#.
+  - Object­ oriented programming.
+  - Agile methodologies.
+  - Sinatra.
+  - Ruby on Rails.
+  - ASP.NET MVC.
+  - Ruby-Gems as Devise, Bcrypt, Paperclip.
+  - ORM's ActiveRecord and Datamapper.
+  - PostgreSQL.
+  - Testing tools as Cucumber, Rspec, NUnit, Jasmine and Capybara.
+  - Version control with Git.
+  - Heroku.
+  - JavaScript, jQuery, AJAX, Websockets.
+  - HTML5, CSS3, Bootstrap.
   - APIs including Twilio, Stripe, Mailgun,  Gmaps.
 
 
