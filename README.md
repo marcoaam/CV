@@ -1,7 +1,7 @@
 Marco Araujo
 =========
 
-I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations. I currently work at CompareTheMarket.com as a Software Engineer.
+I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations. I currently work at [CompareTheMarket.com] as a Software Engineer.
 
 
 Code examples
@@ -65,7 +65,7 @@ Education
 Experience
 ----------
 
-###Comparethemarket.com - Software Engineer - Peterborough, UK
+###[Comparethemarket.com] - Software Engineer - Peterborough, UK
 **2014&mdash;Present**
 - Software design and development.
 
