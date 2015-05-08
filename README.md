@@ -1,7 +1,7 @@
 Marco Araujo
 =========
 
-I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations.
+I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations. I currently work at CompareTheMarket.com as a Software Engineer.
 
 
 Code examples
@@ -24,11 +24,11 @@ Code examples
   - Ruby-Gems as Devise, Bcrypt, Paperclip.
   - ORM's ActiveRecord and Datamapper.
   - PostgreSQL.
-  - Testing tools as Cucumber, Rspec, NUnit, Jasmine and Capybara.
+  - Testing frameworks as Nunit, Specflow, Cucumber, Rspec, NUnit, Jasmine and Capybara.
   - Version control with Git.
   - Heroku.
   - JavaScript, jQuery, AJAX, Websockets.
-  - HTML5, CSS3, Bootstrap.
+  - HTML5, Xml, CSS3, Bootstrap.
   - APIs including Twilio, Stripe, Mailgun,  Gmaps.
 
 
@@ -64,6 +64,10 @@ Education
 
 Experience
 ----------
+
+###Comparethemarket.com - Software Engineer - Peterborough, UK
+**2014&mdash;Present**
+- Software design and development.
 
 ###Araulendez, C.A - Business owner - Valencia, Venezuela
 **2011&mdash;2012**
@@ -103,6 +107,7 @@ Contact me
 - [LinkedIn]
 - [Github]
 
+  [Comparethemarket.com]:http://www.comparethemarket.com
   [Instagram]:https://github.com/marcoaam/instagram
   [Takeaway]:https://github.com/marcoaam/Takeaway-App
   [Flatter]:https://github.com/marcoaam/final-project
