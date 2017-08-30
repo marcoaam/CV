@@ -7,7 +7,8 @@ I currently work at [CompareTheMarket.com] as a Senior Software Engineer. My pas
 
 My ideal workplace is a highly collaborative small team environment on which I can learn, develop further, share my skills and put them to good use.
 
-### Skills
+Skills
+-------
 
   - C#
   - JavaScript
@@ -33,10 +34,10 @@ My ideal workplace is a highly collaborative small team environment on which I c
 Experience
 ----------
 
-### [Comparethemarket.com] - Senior Software Engineer - Peterborough, UK
+#### [Comparethemarket.com] - Senior Software Engineer - Peterborough, UK
 **2017&mdash;Present**
 
-### [Comparethemarket.com] - Software Engineer - Peterborough, UK
+#### [Comparethemarket.com] - Software Engineer - Peterborough, UK
 **2015&mdash;2017**
 
 [Comparethemarket.com] is the leading price comparison site in the UK. During my role as a Software Engineer I was involved in the development of the Money, Life and Pet insurance products. I worked on really interesting projects in an Agile team with exposure to the full development cycle. From delivering high quality features and mentoring junior members of the team to taking part in a 2 1/2 months DevOps rotation, I can honestly say that I really enjoyed and learned an incredible amount during my role as a Software Engineer at [Comparethemarket.com].
@@ -46,10 +47,10 @@ Experience
 - TDD and BDD with NUnit, Specflow, Mocha and Jasmine.
 - DevOps rotation using AWS, Docker, [GoCD], Terraform and Bash.
 
-### [Comparethemarket.com] - Junior Software Engineer - Peterborough, UK
+#### [Comparethemarket.com] - Junior Software Engineer - Peterborough, UK
 **2014&mdash;2015**
 
-###Araulendez, C.A - Business owner - Valencia, Venezuela
+#### Araulendez, C.A - Retail business owner - Valencia, Venezuela
 **2011&mdash;2012**
 - Business Management.
 - Customer service.
@@ -57,7 +58,7 @@ Experience
 - Purchase planning and control.
 - Marketing.
 
-###Freelance
+#### Freelance
 
 - Image editing.
 - Photo restoration.
@@ -67,12 +68,11 @@ Experience
 Education
 ----------
 
-### [Makers Academy] - London, UK
+#### [Makers Academy] - London, UK
 **Web Development Bootcamp: June&mdash;September 2014**
 
 
-Bootcamp Code examples
--------------
+##### Bootcamp Code examples
 
 | [Flatter] | [Instagram] | [Takeaway] |
 |:--------- |:----------- |:---------- |
@@ -83,7 +83,7 @@ Bootcamp Code examples
 - Teaching Web development with Ruby, Ruby on Rails.
 - Final project: [Flatter] - Test-driven Ruby on Rails app developed in two weeks.
 
-### Turabo University - Puerto Rico
+#### Turabo University - Puerto Rico
 **A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
 
 - Computer repair and maintenance.
@@ -91,7 +91,7 @@ Bootcamp Code examples
 - Networks theory and implementation.
 - Programming using VBA and C++.
 
-### Dr. Graphic - Venezuela
+#### Dr. Graphic - Venezuela
 **Web Master diploma (Adobe authorised training centre) 2009&mdash;2010**
 
 - Website design.
