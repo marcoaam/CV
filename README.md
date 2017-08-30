@@ -1,42 +1,82 @@
 Marco Araujo
 =========
 
-I am a fast learning, goal oriented person who loves technology, likes to create new things and exceed expectations. I currently work at [CompareTheMarket.com] as a Software Engineer.
+I am a fast learning, goal oriented Developer that loves technology, likes to innovate and exceed expectations.
 
+I currently work at [CompareTheMarket.com] as a Senior Software Engineer. My passion is in constant learning and breaking down complex problems to solve them using the simplest but most elegant solution possible.
 
-Code examples
--------------
-
-| [Flatter] | [Instagram] | [Takeaway] |
-|:--------- |:----------- |:---------- |
-| Test-driven Ruby on Rails app developed in 10 days based on writing reviews for properties, landlords and tenants.| Ruby on Rails Instagram clone that takes payments. | Basic Ruby Object Oriented model of a takeaway restaurant app that lets you take orders. |
-
+My ideal workplace is a highly collaborative small team environment on which I can learn, develop further, share my skills and put them to good use.
 
 ### Skills
 
-  - Ruby.
-  - C#.
-  - Object­ oriented programming.
-  - Agile methodologies.
-  - Sinatra.
-  - Ruby on Rails.
-  - ASP.NET MVC.
-  - Ruby-Gems as Devise, Bcrypt, Paperclip.
-  - ORM's ActiveRecord and Datamapper.
-  - PostgreSQL.
-  - Testing frameworks as Nunit, Specflow, Cucumber, Rspec, NUnit, Jasmine and Capybara.
-  - Version control with Git.
-  - Heroku.
-  - JavaScript, jQuery, AJAX, Websockets.
-  - HTML5, Xml, CSS3, Bootstrap.
-  - APIs including Twilio, Stripe, Mailgun,  Gmaps.
+  - C#
+  - JavaScript
+  - Ruby
+  - Object­ Oriented Design
+  - Agile/XP
+  - ASP.NET MVC
+  - .NET Core
+  - Node.js
+  - Sinatra
+  - Ruby on Rails
+  - AngularJS
+  - TDD and BDD using Testing frameworks and tools such as NUnit, Specflow, Mocha, Jasmine, Cucumber, Rspec, Capybara, SauceLabs and Applitools.
+  - Version control with Git
+  - Continuous Delivery with [GoCD]
+  - Docker
+  - AWS
+  - Terraform
+  - Splunk
+  - MSSQL
+  - MongoDB
 
+Experience
+----------
+
+### [Comparethemarket.com] - Senior Software Engineer - Peterborough, UK
+**2017&mdash;Present**
+
+### [Comparethemarket.com] - Software Engineer - Peterborough, UK
+**2015&mdash;2017**
+
+[Comparethemarket.com] is the leading price comparison site in the UK. During my role as a Software Engineer I was involved in the development of the Money, Life and Pet insurance products. I worked on really interesting projects in an Agile team with exposure to the full development cycle. From delivering high quality features and mentoring junior members of the team to taking part in a 2 1/2 months DevOps rotation, I can honestly say that I really enjoyed and learned an incredible amount during my role as a Software Engineer at [Comparethemarket.com].
+
+- Full stack development mainly on the Life Insurance product using ASP.NET MVC, Node.js and AngularJS.
+- Development of Microservices using AWS, Docker, Node.js, .Net Core and MongoDB.
+- TDD and BDD with NUnit, Specflow, Mocha and Jasmine.
+- DevOps rotation using AWS, Docker, [GoCD], Terraform and Bash.
+
+### [Comparethemarket.com] - Junior Software Engineer - Peterborough, UK
+**2014&mdash;2015**
+
+###Araulendez, C.A - Business owner - Valencia, Venezuela
+**2011&mdash;2012**
+- Business Management.
+- Customer service.
+- Sales.
+- Purchase planning and control.
+- Marketing.
+
+###Freelance
+
+- Image editing.
+- Photo restoration.
+- Website design.
+- Print design.
 
 Education
 ----------
 
 ### [Makers Academy] - London, UK
 **Web Development Bootcamp: June&mdash;September 2014**
+
+
+Bootcamp Code examples
+-------------
+
+| [Flatter] | [Instagram] | [Takeaway] |
+|:--------- |:----------- |:---------- |
+| Test-driven Ruby on Rails app developed in 10 days based on writing reviews for properties, landlords and tenants.| Ruby on Rails Instagram clone that takes payments. | Basic Ruby Object Oriented model of a takeaway restaurant app that lets you take orders. |
 
 - Highly selective 12 week full-time course.
 - Focussed on Test Driven Development and Agile practices.
@@ -60,32 +100,6 @@ Education
 - Use of the Adobe suite including photoshop, illustrator, dreamweaver, flash and after effects.
 - Use of tools as Filezilla, MySql, MAMP.
 
-
-
-Experience
-----------
-
-###[Comparethemarket.com] - Software Engineer - Peterborough, UK
-**2014&mdash;Present**
-- Software design and development.
-
-###Araulendez, C.A - Business owner - Valencia, Venezuela
-**2011&mdash;2012**
-- Business Management.
-- Customer service.
-- Sales.
-- Purchase planning and control.
-- Marketing.
-
-###Freelance
-
-- Image editing.
-- Photo restoration.
-- Website design.
-- Print design.
-
-
-
 Interests
 ---------
 
@@ -107,7 +121,7 @@ Contact me
 - [LinkedIn]
 - [Github]
 
-  [Comparethemarket.com]:http://www.comparethemarket.com
+  [Comparethemarket.com]:https://www.comparethemarket.com
   [Instagram]:https://github.com/marcoaam/instagram
   [Takeaway]:https://github.com/marcoaam/Takeaway-App
   [Flatter]:https://github.com/marcoaam/final-project
@@ -117,3 +131,5 @@ Contact me
   [GitHub]:https://github.com/marcoaam
   [LinkedIn]:http://uk.linkedin.com/in/marcoaam/
   [Twitter]:http://twitter.com/marco_web
+
+  [GoCD]:https://www.gocd.org/
