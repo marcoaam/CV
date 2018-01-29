@@ -38,7 +38,7 @@ Experience
 
 #### [Comparethemarket.com] 2015-2017, Software Engineer - Peterborough, UK
 
-[Comparethemarket.com] is the leading price comparison site in the UK. During my role as a Software Engineer I was involved in the development of the Money, Life and Pet insurance products. I worked on really interesting projects in an Agile team with exposure to the full development cycle. From delivering high quality features and mentoring junior members of the team to taking part in a 2 1/2 months DevOps rotation, I can honestly say that I really enjoyed and learned an incredible amount during my role as a Software Engineer at [Comparethemarket.com].
+During my role as a Software Engineer I was involved in the development of the Money, Life and Pet insurance products. I worked on really interesting projects in an Agile team with exposure to the full development cycle. From delivering high quality features and mentoring junior members of the team to taking part in a 2 1/2 months DevOps rotation, I can honestly say that I really enjoyed and learned an incredible amount during my role as a Software Engineer at [Comparethemarket.com].
 
 - Full stack development mainly on the Life Insurance product using ASP.NET MVC, Node.js and AngularJS.
 - Development of Microservices using AWS, Docker, Node.js, .Net Core and MongoDB.
