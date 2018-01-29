@@ -21,9 +21,9 @@ Skills
   - Sinatra
   - Ruby on Rails
   - AngularJS
-  - TDD and BDD using Testing frameworks and tools such as NUnit, Specflow, Mocha, Jasmine, Cucumber, Rspec, Capybara, SauceLabs and Applitools.
+  - TDD and BDD using testing frameworks and tools such as NUnit, Specflow, Mocha, Jasmine, Cucumber, Rspec, Capybara, SauceLabs and Applitools.
   - Version control with Git
-  - Continuous Delivery with [GoCD]
+  - CI/CD with [GoCD]
   - Docker
   - AWS
   - Terraform
@@ -34,11 +34,9 @@ Skills
 Experience
 ----------
 
-#### [Comparethemarket.com] - Senior Software Engineer - Peterborough, UK
-**2017&mdash;Present**
+#### [Comparethemarket.com] 2017-Present, Senior Software Engineer - Peterborough, UK
 
-#### [Comparethemarket.com] - Software Engineer - Peterborough, UK
-**2015&mdash;2017**
+#### [Comparethemarket.com] 2015-2017, Software Engineer - Peterborough, UK
 
 [Comparethemarket.com] is the leading price comparison site in the UK. During my role as a Software Engineer I was involved in the development of the Money, Life and Pet insurance products. I worked on really interesting projects in an Agile team with exposure to the full development cycle. From delivering high quality features and mentoring junior members of the team to taking part in a 2 1/2 months DevOps rotation, I can honestly say that I really enjoyed and learned an incredible amount during my role as a Software Engineer at [Comparethemarket.com].
 
@@ -47,11 +45,10 @@ Experience
 - TDD and BDD with NUnit, Specflow, Mocha and Jasmine.
 - DevOps rotation using AWS, Docker, [GoCD], Terraform and Bash.
 
-#### [Comparethemarket.com] - Junior Software Engineer - Peterborough, UK
-**2014&mdash;2015**
+#### [Comparethemarket.com] 2014-2015, Junior Software Engineer - Peterborough, UK
 
-#### Araulendez, C.A - Retail business owner - Valencia, Venezuela
-**2011&mdash;2012**
+#### Araulendez, C.A 2011-2012, Retail business owner - Valencia, Venezuela
+
 - Business Management.
 - Customer service.
 - Sales.
@@ -68,7 +65,7 @@ Experience
 Education
 ----------
 
-#### [Makers Academy] - London, UK
+### [Makers Academy] - London, UK
 **Web Development Bootcamp: June&mdash;September 2014**
 
 
@@ -83,7 +80,7 @@ Education
 - Teaching Web development with Ruby, Ruby on Rails.
 - Final project: [Flatter] - Test-driven Ruby on Rails app developed in two weeks.
 
-#### Turabo University - Puerto Rico
+### Turabo University - Puerto Rico
 **A.S Computer Technology and Networks (Summa Cum Laude 3.95 / 4.0 GPA) 2012&mdash;2014**
 
 - Computer repair and maintenance.
@@ -91,7 +88,7 @@ Education
 - Networks theory and implementation.
 - Programming using VBA and C++.
 
-#### Dr. Graphic - Venezuela
+### Dr. Graphic - Venezuela
 **Web Master diploma (Adobe authorised training centre) 2009&mdash;2010**
 
 - Website design.
@@ -109,7 +106,6 @@ Interests
 - TDD.
 - Movies.
 - Surf & Golf.
-
 
 
 Contact me
