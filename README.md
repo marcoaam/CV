@@ -3,7 +3,7 @@ Marco Araujo
 
 I am a fast learning, goal oriented Developer that loves technology, likes to innovate and exceed expectations.
 
-I currently work at [CompareTheMarket.com] as a Senior Software Engineer. My passion is in constant learning and breaking down complex problems to solve them using the simplest but most elegant solution possible.
+I currently work at [Beaglestreet.com] (part of BGL Group) as a Senior Software Engineer. My passion is in constant learning and breaking down complex problems to solve them using the simplest but most elegant solution possible.
 
 My ideal workplace is a highly collaborative small team environment on which I can learn, develop further, share my skills and put them to good use.
 
@@ -34,7 +34,9 @@ Skills
 Experience
 ----------
 
-#### [Comparethemarket.com] 2017-Present, Senior Software Engineer - Peterborough, UK
+#### [Beaglestreet.com] (part of BGL Group) 2018-Present, Senior Software Engineer - Peterborough, UK
+
+#### [Comparethemarket.com] 2017-2018, Senior Software Engineer - Peterborough, UK
 
 #### [Comparethemarket.com] 2015-2017, Software Engineer - Peterborough, UK
 
@@ -105,7 +107,7 @@ Interests
 - Create new things.
 - TDD.
 - Movies.
-- Surf & Golf.
+- Surf, Snowboard & Golf.
 
 
 Contact me
@@ -117,6 +119,8 @@ Contact me
 - [LinkedIn]
 - [Github]
 
+  [BGL Group]:https://www.bglgroup.co.uk/
+  [Beaglestreet.com]:https://www.beaglestreet.com
   [Comparethemarket.com]:https://www.comparethemarket.com
   [Instagram]:https://github.com/marcoaam/instagram
   [Takeaway]:https://github.com/marcoaam/Takeaway-App
